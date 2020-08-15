@@ -3,4 +3,4 @@ numpy==1.18.1
 easyocr==1.1.7
 googletrans==3.0.0
 gtts==2.1.1
-PIL==7.0.0
+PIL==1.1.6
