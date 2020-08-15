@@ -1,5 +1,5 @@
-torch==1.2.0
-torchvision==0.4.0
+torch==1.0.0
+torchvision==0.2.1
 streamlit==0.65.2
 numpy==1.18.1
 easyocr==1.1.7
