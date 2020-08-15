@@ -1,8 +1,9 @@
+torch==1.2.0
+torchvision==0.4.0
 streamlit==0.65.2
 numpy==1.18.1
 easyocr==1.1.7
 googletrans==3.0.0
 gtts==2.1.1
 Pillow==7.2.0
-torch==1.2.0
-torchvision==0.4.0
+
