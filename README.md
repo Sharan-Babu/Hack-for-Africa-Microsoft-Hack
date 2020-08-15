@@ -1,7 +1,4 @@
-# Hack-for-Africa-Microsoft-Hack
-Hack for Africa - Microsoft Hack
-
-# Steps to get the website on your computer:
+# Steps to run the website on your computer:
 <ol>
   <li> Open app.ipynb</li>
   <li> Click Open in Colab button at the top.</li>
